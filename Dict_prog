@@ -1,0 +1,2 @@
+a = {"Name" : "Bharat" , "Number" : "9542641906"}
+print(a["Name"])
